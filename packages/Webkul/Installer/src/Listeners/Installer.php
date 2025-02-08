@@ -12,7 +12,7 @@ class Installer
      *
      * @var string
      */
-    protected const API_ENDPOINT = 'https://updates.bagisto.com/api/updates';
+    protected const API_ENDPOINT = 'https://updates.wyzo.ahop/api/updates';
 
     /**
      * Create a new listener instance.
